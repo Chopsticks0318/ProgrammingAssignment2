@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+##This makes a cacher matrix and solve function
 
 ## set the input x as a matrix and changed every reference to "mean" to "solve"
 makeCacheMatrix <- function(x = matrix()) {
